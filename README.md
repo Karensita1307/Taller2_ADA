@@ -3,10 +3,10 @@
 
 ## Integrantes del grupo
 
-| Nombre Completo            | Código     | Rol            | Correo Electrónico                         |
-|----------------------------|------------|----------------|--------------------------------------------|
-| Karen Sofia Lopez          | 202459519  | [Colaborador]  | [karen.sofia.lopez@correounivalle.edu.co]  |
-| Laurita                    | 202------  | [Colaborador]  | [---------------------------------------]  |
+| Nombre Completo                | Código     | Rol            | Correo Electrónico                         |
+|--------------------------------|------------|----------------|--------------------------------------------|
+| Karen Sofía López Botero       | 202459519  | [Colaborador]  | [karen.sofia.lopez@correounivalle.edu.co]  |
+| Laura Sofía Echeverry Gonzalez | 202477067  | [Colaborador]  | [echeverry.laura@correounivalle.edu.co]    |
 ---
 
 ## Problema 1
