@@ -73,6 +73,8 @@ class HashTable:
 
 def main():
     n = int(input())  # número de operaciones
+    if not (1 <= n <= 1000):
+        return
     ventas = HashTable(100) # se crea la tabla hash con capacidad 100
 
     for _ in range(n):
@@ -81,6 +83,9 @@ def main():
         if partes[0] == "VENDER":
             producto = partes[1]
             cantidad = int(partes[2])
+
+            if not (1 <= cantidad <= 1000):
+                return
 
             # se intenta buscar el producto; si no existe, se empieza en 0
             try:
