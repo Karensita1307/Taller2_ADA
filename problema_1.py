@@ -26,6 +26,8 @@ class Stack:
 
 def main():
     n = int(input()) # esto lee lo que se escribe y lo convierte en un número entero
+    if not (1 <= n <= 1000):
+        return
     pila = Stack() # aquí se crea una pila vacía (usando la clase stack) donde se van a guardar las palabras del texto en el orden en que se escriban
 
     for _ in range(n): # esto va a repetir n veces, es decir, por cada operación que llega en la entrada
