@@ -1,5 +1,6 @@
-## Taller 2 de ADA
----
+# Taller 2 de ADA
+
+Para ver el taller desde el repositorio en GitHub, haga click [aquí](https://github.com/Karensita1307/Taller2_ADA.git).
 
 ## Integrantes del grupo
 
