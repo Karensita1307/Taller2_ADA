@@ -26,7 +26,16 @@ Esta estructura fue adecuada porque el comando de deshacer siempre actúa sobre 
 
 # Problema 2
 ## Estructura de datos implementada
-....
+Estructura de datos de cola.
+
+En este problema se implementó una cola para simular el comportamiento de una sala de urgencias, donde los pacientes son atendidos en el mismo orden en que llegan.
+ La cola permite que la primera persona que entra sea la primera en atenderse.
+
+- La operación `LLEGA nombre` agrega un paciente al final de la cola.
+- La operación `ATIENDE` atiende y elimina al primer paciente de la cola.
+- La operación `SIGUIENTE` muestra el nombre del próximo paciente a atender.
+
+Esta estructura fue adecuada porque el comando de atiende siempre actúa sobre el elemento que primero se ingresó.
 
 ---
 
