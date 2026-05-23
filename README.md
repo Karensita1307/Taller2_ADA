@@ -41,7 +41,17 @@ Esta estructura fue adecuada porque el comando de atiende siempre actúa sobre e
 
 # Problema 3
 ## Estructura de datos implementada
-....
+Estructura de datos de lista enlazada simple.
+
+En este problema se implementó la lista enlazada simple para simular el comportamiento de una aplicación musical que permite administrar una lista de reproducción.
+ La lista enlazada simple permite que la primera canción que entra se añada al final de la lista de reproducción.
+
+- La operación `AGREGAR cancion` agrega una canción al final de la lista.
+- La operación `INSERTAR posicion cancion` inserta una canción en una posición específica.
+- La operación `ELIMINAR cancion` elimina la primera aparición de la canción.
+- La operación `MOSTRAR` imprime la lista completa de canciones.
+
+Esta estructura fue adecuada porque el comando de insertar siempre actúa sobre la última posición de la lista, no se implemento la lista doblemente enlazada ya que no necesitamos la posición anterior y gastaría más memoria.
 
 ---
 
